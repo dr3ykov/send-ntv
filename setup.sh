@@ -1,0 +1,11 @@
+npm i user-agents
+npm i https-proxy-agent
+npm i crypto-random-string
+npm i events
+npm i fs
+npm i net
+npm i cloudscraper
+npm i request
+npm i hcaptcha-solver
+npm i cluster
+npm i cloudflare-bypasser
